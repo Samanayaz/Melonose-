@@ -1,0 +1,43 @@
+.bg-img {
+  /* background-image: url(bg/annie-spratt-VtAy7t8zPz4-unsplash.jpg); */
+  background-image: url(bg/textureeee.jpg);
+
+  opacity: 0.4;
+  z-index: -1;
+  height: 3750px;
+  width: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  background-position: center;
+}
+
+* {
+  text-align: center;
+}
+
+section {
+  padding: 4em;
+}
+
+h1 {
+  color: rgb(42, 70, 102);
+  font-size: 6em;
+  opacity: 0.7;
+  font-family: "Piedra", cursive;
+  padding: 2em 0 0 0;
+  /* transform: rotate(20deg); */
+  z-index: -1;
+}
+h2 {
+  font-family: "Crushed", cursive;
+}
+h3 {
+  color: rgb(98, 98, 131);
+  font-size: 2em;
+  font-family: "Charmonman", cursive;
+}
+
+img {
+  border: solid rgb(109, 149, 156) 10px;
+  border-style: outset;
+}
